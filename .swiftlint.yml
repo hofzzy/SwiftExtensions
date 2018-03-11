@@ -1,0 +1,12 @@
+included:
+  - Sources/
+opt_in_rules:
+  - closure_spacing
+  - operator_usage_whitespace
+disabled_rules:
+  - force_cast
+  - force_try
+line_length: 144
+identifier_name:
+  min_length:
+    warning: 1
